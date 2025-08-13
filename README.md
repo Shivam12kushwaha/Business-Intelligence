@@ -6,4 +6,6 @@ There are four keys steps that business intelligence follows to transform raw da
 ### Step 2: Uncover trends and inconsistencies
 ### Step 3: Use data visualization to present findings
 ### Step 4: Take action on insights in real time
-![bi work flow](https://images.app.goo.gl/wAjVXU6j3WnXotwDA)
+![Alt Text](images/Screenshot 2025-08-13 112703.png)   # Image in "images" folder
+
+
